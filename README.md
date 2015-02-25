@@ -2,7 +2,7 @@
 
 My Work: Space.rb
 
-To run:  ruby space.rb [simulate|verify|display] <simFileName.
+To run:  ruby space.rb [simulate|verify|display] <simFileName>
 
 This project just shows my work with multithreading in ruby.  Below is the included project description.  
 

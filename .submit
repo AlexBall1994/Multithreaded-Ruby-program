@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC330
+#  Project 5: Multithreaded Space Simulation
+
+courseName=CMSC330
+semester=201408
+projectNumber=5
+courseKey=254f39874f0b71fd
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2014
+submitURL=https://submit.cs.umd.edu:443/fall2014/eclipse/SubmitProjectViaEclipse
